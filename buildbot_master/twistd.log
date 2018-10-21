@@ -452,3 +452,30 @@
 2018-10-21 22:32:04+0800 [-] Starting factory <twisted.spread.pb.PBServerFactory object at 0x1134f0a90>
 2018-10-21 22:32:04+0800 [-] BuildMaster is running
 2018-10-21 22:32:04+0800 [-] buildbotNetUsageData: sending {'installid': '3698bc01d46c04412b51093e549ae80d37ebf01d', 'versions': {'Python': '3.6.3', 'Buildbot': '1.5.0', 'Twisted': '18.9.0'}, 'platform': {'platform': 'Darwin-17.7.0-x86_64-i386-64bit', 'system': 'Darwin', 'machine': 'x86_64', 'processor': 'i386', 'python_implementation': 'CPython', 'version': 'Darwin Kernel Version 17.7.0:', 'distro': '10.13.6'}, 'plugins': {'buildbot/worker/base/Worker': 1, 'buildbot/config/BuilderConfig': 1, 'buildbot/schedulers/basic/SingleBranchScheduler': 1, 'buildbot/schedulers/forcesched/ForceScheduler': 1, 'buildbot/reporters/mail/MailNotifier': 1, 'buildbot/changes/gitpoller/GitPoller': 1, 'buildbot/steps/source/github/GitHub': 1, 'buildbot/steps/shell/ShellCommand': 1}, 'db': 'mysql+pymysql', 'mq': 'simple', 'www_plugins': ['waterfall_view', 'console_view', 'grid_view']}
+2018-10-21 22:36:44+0800 [-] Removing stale pidfile /Users/lifangyi/PycharmProjects/tola/buildbot_master/twistd.pid
+2018-10-21 22:36:44+0800 [-] Loading buildbot.tac...
+2018-10-21 22:36:46+0800 [-] Loaded.
+2018-10-21 22:36:46+0800 [-] twistd 18.9.0 (/Users/lifangyi/PycharmProjects/tola/venv/bin/python 3.6.3) starting up.
+2018-10-21 22:36:46+0800 [-] reactor class: twisted.internet.selectreactor.SelectReactor.
+2018-10-21 22:36:46+0800 [-] Starting BuildMaster -- buildbot.version: 1.5.0
+2018-10-21 22:36:46+0800 [-] Loading configuration from '/Users/lifangyi/PycharmProjects/tola/buildbot_master/master.cfg'
+2018-10-21 22:36:46+0800 [-] Setting up database with URL 'mysql+pymysql://root:xxxx@localhost:3306/r?charset=utf8'
+2018-10-21 22:36:47+0800 [-] doing housekeeping for master 1 bogon:/Users/lifangyi/PycharmProjects/tola/buildbot_master
+2018-10-21 22:36:47+0800 [-] adding 1 new services, removing 0
+2018-10-21 22:36:47+0800 [-] adding 1 new change_sources, removing 0
+2018-10-21 22:36:47+0800 [-] gitpoller: using workdir '/Users/lifangyi/PycharmProjects/tola/buildbot_master/gitpoller-workdir'
+2018-10-21 22:36:47+0800 [-] adding 1 new builders, removing 0
+2018-10-21 22:36:47+0800 [-] adding 2 new schedulers, removing 0
+2018-10-21 22:36:47+0800 [-] initializing www plugin 'waterfall_view'
+2018-10-21 22:36:47+0800 [-] initializing www plugin 'console_view'
+2018-10-21 22:36:47+0800 [-] initializing www plugin 'grid_view'
+2018-10-21 22:36:47+0800 [-] initializing www plugin 'waterfall_view'
+2018-10-21 22:36:47+0800 [-] initializing www plugin 'console_view'
+2018-10-21 22:36:47+0800 [-] initializing www plugin 'grid_view'
+2018-10-21 22:36:47+0800 [-] BuildbotSite starting on 8011
+2018-10-21 22:36:47+0800 [-] Starting factory <buildbot.www.service.BuildbotSite object at 0x1134c5080>
+2018-10-21 22:36:47+0800 [-] adding 1 new workers, removing 0
+2018-10-21 22:36:47+0800 [-] PBServerFactory starting on 9989
+2018-10-21 22:36:47+0800 [-] Starting factory <twisted.spread.pb.PBServerFactory object at 0x1134a5748>
+2018-10-21 22:36:47+0800 [-] BuildMaster is running
+2018-10-21 22:36:47+0800 [-] buildbotNetUsageData: sending {'installid': '3698bc01d46c04412b51093e549ae80d37ebf01d', 'versions': {'Python': '3.6.3', 'Buildbot': '1.5.0', 'Twisted': '18.9.0'}, 'platform': {'platform': 'Darwin-17.7.0-x86_64-i386-64bit', 'system': 'Darwin', 'machine': 'x86_64', 'processor': 'i386', 'python_implementation': 'CPython', 'version': 'Darwin Kernel Version 17.7.0:', 'distro': '10.13.6'}, 'plugins': {'buildbot/worker/base/Worker': 1, 'buildbot/config/BuilderConfig': 1, 'buildbot/schedulers/basic/SingleBranchScheduler': 1, 'buildbot/schedulers/forcesched/ForceScheduler': 1, 'buildbot/reporters/mail/MailNotifier': 1, 'buildbot/changes/gitpoller/GitPoller': 1, 'buildbot/steps/source/git/Git': 1, 'buildbot/steps/shell/ShellCommand': 1}, 'db': 'mysql+pymysql', 'mq': 'simple', 'www_plugins': ['waterfall_view', 'console_view', 'grid_view']}
