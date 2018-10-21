@@ -1,0 +1,7 @@
+setup.cfg
+setup.py
+Tola.egg-info/PKG-INFO
+Tola.egg-info/SOURCES.txt
+Tola.egg-info/dependency_links.txt
+Tola.egg-info/top_level.txt
+Tola.egg-info/zip-safe

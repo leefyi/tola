@@ -1,0 +1,96 @@
+2018-10-21 21:41:01+0800 [-] Loading buildbot.tac...
+2018-10-21 21:41:01+0800 [-] Loaded.
+2018-10-21 21:41:01+0800 [-] twistd 18.9.0 (/Users/lifangyi/PycharmProjects/tola/venv/bin/python 3.6.3) starting up.
+2018-10-21 21:41:01+0800 [-] reactor class: twisted.internet.selectreactor.SelectReactor.
+2018-10-21 21:41:01+0800 [-] Starting Worker -- version: 1.5.0
+2018-10-21 21:41:01+0800 [-] recording hostname in twistd.hostname
+2018-10-21 21:41:01+0800 [-] Starting factory <buildbot_worker.pb.BotFactory object at 0x10ce926d8>
+2018-10-21 21:41:01+0800 [-] Connecting to localhost:9989
+2018-10-21 21:41:01+0800 [Uninitialized] Connection to localhost:9989 failed: Connection Refused
+2018-10-21 21:41:01+0800 [Uninitialized] <twisted.internet.tcp.Connector object at 0x10ce92ac8> will retry in 2 seconds
+2018-10-21 21:41:01+0800 [Uninitialized] Retry attempt 1/inf
+2018-10-21 21:41:01+0800 [-] Stopping factory <buildbot_worker.pb.BotFactory object at 0x10ce926d8>
+2018-10-21 21:41:04+0800 [-] Starting factory <buildbot_worker.pb.BotFactory object at 0x10ce926d8>
+2018-10-21 21:41:04+0800 [-] Connecting to localhost:9989
+2018-10-21 21:41:04+0800 [Uninitialized] Connection to localhost:9989 failed: Connection Refused
+2018-10-21 21:41:04+0800 [Uninitialized] <twisted.internet.tcp.Connector object at 0x10ce92ac8> will retry in 7 seconds
+2018-10-21 21:41:04+0800 [Uninitialized] Retry attempt 2/inf
+2018-10-21 21:41:04+0800 [-] Stopping factory <buildbot_worker.pb.BotFactory object at 0x10ce926d8>
+2018-10-21 21:41:11+0800 [-] Starting factory <buildbot_worker.pb.BotFactory object at 0x10ce926d8>
+2018-10-21 21:41:11+0800 [-] Connecting to localhost:9989
+2018-10-21 21:41:11+0800 [Uninitialized] Connection to localhost:9989 failed: Connection Refused
+2018-10-21 21:41:11+0800 [Uninitialized] <twisted.internet.tcp.Connector object at 0x10ce92ac8> will retry in 22 seconds
+2018-10-21 21:41:11+0800 [Uninitialized] Retry attempt 3/inf
+2018-10-21 21:41:11+0800 [-] Stopping factory <buildbot_worker.pb.BotFactory object at 0x10ce926d8>
+2018-10-21 21:41:34+0800 [-] Starting factory <buildbot_worker.pb.BotFactory object at 0x10ce926d8>
+2018-10-21 21:41:34+0800 [-] Connecting to localhost:9989
+2018-10-21 21:41:34+0800 [Uninitialized] Connection to localhost:9989 failed: Connection Refused
+2018-10-21 21:41:34+0800 [Uninitialized] <twisted.internet.tcp.Connector object at 0x10ce92ac8> will retry in 55 seconds
+2018-10-21 21:41:34+0800 [Uninitialized] Retry attempt 4/inf
+2018-10-21 21:41:34+0800 [-] Stopping factory <buildbot_worker.pb.BotFactory object at 0x10ce926d8>
+2018-10-21 21:42:29+0800 [-] Starting factory <buildbot_worker.pb.BotFactory object at 0x10ce926d8>
+2018-10-21 21:42:29+0800 [-] Connecting to localhost:9989
+2018-10-21 21:42:29+0800 [Uninitialized] Connection to localhost:9989 failed: Connection Refused
+2018-10-21 21:42:29+0800 [Uninitialized] <twisted.internet.tcp.Connector object at 0x10ce92ac8> will retry in 125 seconds
+2018-10-21 21:42:29+0800 [Uninitialized] Retry attempt 5/inf
+2018-10-21 21:42:29+0800 [-] Stopping factory <buildbot_worker.pb.BotFactory object at 0x10ce926d8>
+2018-10-21 21:44:35+0800 [-] Starting factory <buildbot_worker.pb.BotFactory object at 0x10ce926d8>
+2018-10-21 21:44:35+0800 [-] Connecting to localhost:9989
+2018-10-21 21:44:35+0800 [Uninitialized] Connection to localhost:9989 failed: Connection Refused
+2018-10-21 21:44:35+0800 [Uninitialized] <twisted.internet.tcp.Connector object at 0x10ce92ac8> will retry in 295 seconds
+2018-10-21 21:44:35+0800 [Uninitialized] Retry attempt 6/inf
+2018-10-21 21:44:35+0800 [-] Stopping factory <buildbot_worker.pb.BotFactory object at 0x10ce926d8>
+2018-10-21 21:49:30+0800 [-] Starting factory <buildbot_worker.pb.BotFactory object at 0x10ce926d8>
+2018-10-21 21:49:30+0800 [-] Connecting to localhost:9989
+2018-10-21 21:49:30+0800 [Uninitialized] Connection to localhost:9989 failed: Connection Refused
+2018-10-21 21:49:30+0800 [Uninitialized] <twisted.internet.tcp.Connector object at 0x10ce92ac8> will retry in 351 seconds
+2018-10-21 21:49:30+0800 [Uninitialized] Retry attempt 7/inf
+2018-10-21 21:49:30+0800 [-] Stopping factory <buildbot_worker.pb.BotFactory object at 0x10ce926d8>
+2018-10-21 21:55:22+0800 [-] Starting factory <buildbot_worker.pb.BotFactory object at 0x10ce926d8>
+2018-10-21 21:55:22+0800 [-] Connecting to localhost:9989
+2018-10-21 21:55:22+0800 [Uninitialized] Connection to localhost:9989 failed: Connection Refused
+2018-10-21 21:55:22+0800 [Uninitialized] <twisted.internet.tcp.Connector object at 0x10ce92ac8> will retry in 272 seconds
+2018-10-21 21:55:22+0800 [Uninitialized] Retry attempt 8/inf
+2018-10-21 21:55:22+0800 [-] Stopping factory <buildbot_worker.pb.BotFactory object at 0x10ce926d8>
+2018-10-21 21:59:54+0800 [-] Starting factory <buildbot_worker.pb.BotFactory object at 0x10ce926d8>
+2018-10-21 21:59:54+0800 [-] Connecting to localhost:9989
+2018-10-21 21:59:54+0800 [Uninitialized] Connection to localhost:9989 failed: Connection Refused
+2018-10-21 21:59:54+0800 [Uninitialized] <twisted.internet.tcp.Connector object at 0x10ce92ac8> will retry in 299 seconds
+2018-10-21 21:59:54+0800 [Uninitialized] Retry attempt 9/inf
+2018-10-21 21:59:54+0800 [-] Stopping factory <buildbot_worker.pb.BotFactory object at 0x10ce926d8>
+2018-10-21 22:04:54+0800 [-] Starting factory <buildbot_worker.pb.BotFactory object at 0x10ce926d8>
+2018-10-21 22:04:54+0800 [-] Connecting to localhost:9989
+2018-10-21 22:04:54+0800 [Uninitialized] Connection to localhost:9989 failed: Connection Refused
+2018-10-21 22:04:54+0800 [Uninitialized] <twisted.internet.tcp.Connector object at 0x10ce92ac8> will retry in 327 seconds
+2018-10-21 22:04:54+0800 [Uninitialized] Retry attempt 10/inf
+2018-10-21 22:04:54+0800 [-] Stopping factory <buildbot_worker.pb.BotFactory object at 0x10ce926d8>
+2018-10-21 22:10:22+0800 [-] Starting factory <buildbot_worker.pb.BotFactory object at 0x10ce926d8>
+2018-10-21 22:10:22+0800 [-] Connecting to localhost:9989
+2018-10-21 22:10:22+0800 [Uninitialized] Connection to localhost:9989 failed: Connection Refused
+2018-10-21 22:10:22+0800 [Uninitialized] <twisted.internet.tcp.Connector object at 0x10ce92ac8> will retry in 288 seconds
+2018-10-21 22:10:22+0800 [Uninitialized] Retry attempt 11/inf
+2018-10-21 22:10:22+0800 [-] Stopping factory <buildbot_worker.pb.BotFactory object at 0x10ce926d8>
+2018-10-21 22:15:10+0800 [-] Starting factory <buildbot_worker.pb.BotFactory object at 0x10ce926d8>
+2018-10-21 22:15:10+0800 [-] Connecting to localhost:9989
+2018-10-21 22:15:10+0800 [Uninitialized] Connection to localhost:9989 failed: Connection Refused
+2018-10-21 22:15:10+0800 [Uninitialized] <twisted.internet.tcp.Connector object at 0x10ce92ac8> will retry in 261 seconds
+2018-10-21 22:15:10+0800 [Uninitialized] Retry attempt 12/inf
+2018-10-21 22:15:10+0800 [-] Stopping factory <buildbot_worker.pb.BotFactory object at 0x10ce926d8>
+2018-10-21 22:19:32+0800 [-] Starting factory <buildbot_worker.pb.BotFactory object at 0x10ce926d8>
+2018-10-21 22:19:32+0800 [-] Connecting to localhost:9989
+2018-10-21 22:19:32+0800 [Uninitialized] Connection to localhost:9989 failed: Connection Refused
+2018-10-21 22:19:32+0800 [Uninitialized] <twisted.internet.tcp.Connector object at 0x10ce92ac8> will retry in 394 seconds
+2018-10-21 22:19:32+0800 [Uninitialized] Retry attempt 13/inf
+2018-10-21 22:19:32+0800 [-] Stopping factory <buildbot_worker.pb.BotFactory object at 0x10ce926d8>
+2018-10-21 22:26:06+0800 [-] Starting factory <buildbot_worker.pb.BotFactory object at 0x10ce926d8>
+2018-10-21 22:26:06+0800 [-] Connecting to localhost:9989
+2018-10-21 22:26:06+0800 [Uninitialized] Connection to localhost:9989 failed: Connection Refused
+2018-10-21 22:26:06+0800 [Uninitialized] <twisted.internet.tcp.Connector object at 0x10ce92ac8> will retry in 308 seconds
+2018-10-21 22:26:06+0800 [Uninitialized] Retry attempt 14/inf
+2018-10-21 22:26:06+0800 [-] Stopping factory <buildbot_worker.pb.BotFactory object at 0x10ce926d8>
+2018-10-21 22:31:15+0800 [-] Starting factory <buildbot_worker.pb.BotFactory object at 0x10ce926d8>
+2018-10-21 22:31:15+0800 [-] Connecting to localhost:9989
+2018-10-21 22:31:15+0800 [Uninitialized] Connection to localhost:9989 failed: Connection Refused
+2018-10-21 22:31:15+0800 [Uninitialized] <twisted.internet.tcp.Connector object at 0x10ce92ac8> will retry in 245 seconds
+2018-10-21 22:31:15+0800 [Uninitialized] Retry attempt 15/inf
+2018-10-21 22:31:15+0800 [-] Stopping factory <buildbot_worker.pb.BotFactory object at 0x10ce926d8>

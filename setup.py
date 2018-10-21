@@ -19,7 +19,7 @@ class PyTest(TestCommand):
 
 setup(
     name='Tola',
-    version=0.1,
+    version=0.2,
     url='http://www.dongwm.com/',
     author='Dong Weiming',
     license='BSD',
